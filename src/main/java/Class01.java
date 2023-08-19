@@ -10,5 +10,8 @@ public class Class01 {
         //Versiyon 3 Kodları
         System.out.println("Versiyon3");
 
+        //Ver
+        System.out.println("Hatalı kodlar...");
+
     }
 }
