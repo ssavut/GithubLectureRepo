@@ -6,5 +6,9 @@ public class Class01 {
         int y = 2;
         System.out.println(x + y);
 
+
+        //Versiyon 2
+        int z = 5;
+        System.out.println(x + y + z);
     }
 }
